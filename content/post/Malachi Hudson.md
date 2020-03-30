@@ -9,12 +9,6 @@ maxWidthPX: 652
 ---
 
 
-
-
-
-
-
-
 ### Malachi Hudson
 ## Bartender
 

@@ -9,12 +9,6 @@ maxWidthPX: 652
 ---
 
 
-
-
-
-
-
-
 ### Seth Wagner
 ## Student Project Manager
 
