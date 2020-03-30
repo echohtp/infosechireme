@@ -1,7 +1,7 @@
 ---
 title: Zachary
 date: 2020-03-15
-hero: https://dl.airtable.com/.attachmentThumbnails/07204d718304c4ace27cfa8d4bc53856/62d9a44d
+hero: https://dl.airtable.com/.attachmentThumbnails/a9bcfb75fb58cb80c047925b5213545e/ed920b32
 excerpt: Infosec, Analyst
 tags: 
 draft: true

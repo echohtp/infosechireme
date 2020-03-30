@@ -1,7 +1,7 @@
 ---
 title: Max Schmitt
 date: 2020-03-15
-hero: https://dl.airtable.com/.attachmentThumbnails/36ee87fa4407fe27a78fc0a569a161eb/97e37d1b
+hero: https://dl.airtable.com/.attachmentThumbnails/a8681a5da9567a44da06ce1bfc22a991/40f04958
 excerpt: Software Engineer
 tags: 
 draft: true

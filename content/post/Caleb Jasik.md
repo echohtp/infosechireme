@@ -1,7 +1,7 @@
 ---
 title: Caleb Jasik
 date: 2020-03-15
-hero: https://dl.airtable.com/.attachmentThumbnails/5bb886ea03105eff4a3b739272dc6e5c/20e59e6a
+hero: https://dl.airtable.com/.attachmentThumbnails/17dfe96bdeeda1610c25b5a4c2dbe5b6/fefec12f
 excerpt: Web Developer 
 tags: 
 draft: true

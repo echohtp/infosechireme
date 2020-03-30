@@ -1,7 +1,7 @@
 ---
 title: Susan du Preez
 date: 2020-03-15
-hero: https://dl.airtable.com/.attachmentThumbnails/4e6d495155a0ce88378f581cd17196d7/169d1610
+hero: https://dl.airtable.com/.attachmentThumbnails/2017dec4171da555dc9b1f9307d90aba/71b3a893
 excerpt: Information Security Manager (EISM)
 tags: 
 draft: true

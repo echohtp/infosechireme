@@ -1,7 +1,7 @@
 ---
 title: Seth Wagner
 date: 2020-03-15
-hero: https://dl.airtable.com/.attachmentThumbnails/75b02c254ebf71d3653e42646693c3e6/5cbdb846
+hero: https://dl.airtable.com/.attachmentThumbnails/786f4fa3bedc150f00442d15981e863e/d6b08f4e
 excerpt: Student Project Manager
 tags: 
 draft: true

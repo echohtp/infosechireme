@@ -1,7 +1,7 @@
 ---
 title: Malachi Hudson
 date: 2020-03-15
-hero: https://dl.airtable.com/.attachmentThumbnails/74fcdf2e64bd14a3a680b470e4a5b1a9/a9453393
+hero: https://dl.airtable.com/.attachmentThumbnails/dc3cf01070aa2edbc7d6cfd9475558f0/0bbb1777
 excerpt: Bartender
 tags: 
 draft: true
