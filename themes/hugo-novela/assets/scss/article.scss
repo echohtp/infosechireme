@@ -4,7 +4,7 @@
     @media screen and (max-width: $phablet){
         &::before {
           content: "";
-          width: 100%;
+          width: 95%;
           height: 20px;
           background: var(--primary);
           position: absolute;
@@ -17,7 +17,7 @@
     
         &::after {
           content: "";
-          width: 100%;
+          width: 95%;
           height: 10px;
           background: var(--background-color);
           position: absolute;
