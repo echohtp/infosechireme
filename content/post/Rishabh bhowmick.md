@@ -3,8 +3,6 @@ title: Rishabh bhowmick
 date: 2020-03-15
 hero: 
 excerpt: Cyber security analyst
-authors:
-  - Dennis Brotzky
 tags: 
 
 ---

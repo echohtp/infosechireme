@@ -3,8 +3,6 @@ title: Alex Lane
 date: 2020-03-15
 hero: 
 excerpt: Information Security Engineer
-authors:
-  - Dennis Brotzky
 tags: 
 
 ---

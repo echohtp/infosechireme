@@ -3,8 +3,6 @@ title: Odumosu Tolulope
 date: 2020-03-15
 hero: 
 excerpt: Software Developer
-authors:
-  - Dennis Brotzky
 tags: 
 
 ---

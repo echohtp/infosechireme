@@ -3,8 +3,6 @@ title: Zachary Neuhaus
 date: 2020-03-15
 hero: https://dl.airtable.com/.attachmentThumbnails/e9fd3dab3f3e97bc33e6f2f4a00d2adb/7eb8368e
 excerpt: InfoSec, Analyst 
-authors:
-  - Dennis Brotzky
 tags: 
 
 ---

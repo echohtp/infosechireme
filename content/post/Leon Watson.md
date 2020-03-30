@@ -3,8 +3,6 @@ title: Leon Watson
 date: 2020-03-15
 hero: https://dl.airtable.com/.attachmentThumbnails/5ce9cd06883a655a694767885b422b61/8639a9d1
 excerpt: NOC/SOC Engineer
-authors:
-  - Dennis Brotzky
 tags: 
 
 ---

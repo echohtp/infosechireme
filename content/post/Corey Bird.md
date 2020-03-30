@@ -3,8 +3,6 @@ title: Corey Bird
 date: 2020-03-15
 hero: 
 excerpt: Security Analyst
-authors:
-  - Dennis Brotzky
 tags: 
 
 ---

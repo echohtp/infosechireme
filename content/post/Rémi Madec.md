@@ -3,8 +3,6 @@ title: Rémi Madec
 date: 2020-03-15
 hero: 
 excerpt: Penetration tester
-authors:
-  - Dennis Brotzky
 tags: 
 
 ---

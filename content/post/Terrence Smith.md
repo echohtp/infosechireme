@@ -3,8 +3,6 @@ title: Terrence Smith
 date: 2020-03-15
 hero: 
 excerpt: undefined
-authors:
-  - Dennis Brotzky
 tags: 
 
 ---

@@ -3,8 +3,6 @@ title: Shubham singh
 date: 2020-03-15
 hero: 
 excerpt: Pentester
-authors:
-  - Dennis Brotzky
 tags: 
 
 ---
