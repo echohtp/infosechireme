@@ -1,7 +1,7 @@
 ---
 title: Zachary
 date: 2020-03-15
-hero: https://dl.airtable.com/.attachments/137dfeab3c84d9161308a3707de5ff28/484c83bb/Cs05PCgWYAA9vYK.jpg
+hero: https://dl.airtable.com/.attachmentThumbnails/07204d718304c4ace27cfa8d4bc53856/62d9a44d
 excerpt: Infosec, Analyst
 authors:
   - Dennis Brotzky

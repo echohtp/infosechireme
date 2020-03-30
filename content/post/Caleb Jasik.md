@@ -1,7 +1,7 @@
 ---
 title: Caleb Jasik
 date: 2020-03-15
-hero: https://dl.airtable.com/.attachments/90f3ab271537fbe3e05d99479729713a/056ab9b0/4173F2C3-35B2-45F3-AA0F-38B8FFAC4BE0.jpeg
+hero: https://dl.airtable.com/.attachmentThumbnails/5bb886ea03105eff4a3b739272dc6e5c/20e59e6a
 excerpt: Web Developer 
 authors:
   - Dennis Brotzky

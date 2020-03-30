@@ -1,7 +1,7 @@
 ---
 title: Max Schmitt
 date: 2020-03-15
-hero: https://dl.airtable.com/.attachments/4aad80010eb965f77f043e26331ad5df/fc2c80aa/6341swcomp.jpg
+hero: https://dl.airtable.com/.attachmentThumbnails/36ee87fa4407fe27a78fc0a569a161eb/97e37d1b
 excerpt: Software Engineer
 authors:
   - Dennis Brotzky

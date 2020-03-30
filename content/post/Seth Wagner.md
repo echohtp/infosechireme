@@ -1,7 +1,7 @@
 ---
 title: Seth Wagner
 date: 2020-03-15
-hero: https://dl.airtable.com/.attachments/814df2e2dd2fc4d7ab83976229555a6c/ce599c25/0.jpg
+hero: https://dl.airtable.com/.attachmentThumbnails/75b02c254ebf71d3653e42646693c3e6/5cbdb846
 excerpt: Student Project Manager
 authors:
   - Dennis Brotzky

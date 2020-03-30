@@ -1,7 +1,7 @@
 ---
 title: Malachi Hudson
 date: 2020-03-15
-hero: https://dl.airtable.com/.attachments/39403603888566e88c785a8361fc7cb3/67f634d7/IMG_20200113_1333102.jpg
+hero: https://dl.airtable.com/.attachmentThumbnails/74fcdf2e64bd14a3a680b470e4a5b1a9/a9453393
 excerpt: Bartender
 authors:
   - Dennis Brotzky
