@@ -4,7 +4,8 @@ date: 2020-03-15
 hero: https://dl.airtable.com/.attachmentThumbnails/75b02c254ebf71d3653e42646693c3e6/5cbdb846
 excerpt: Student Project Manager
 tags: 
-
+draft: true
+maxWidthPX: 652
 ---
 
 ### Seth Wagner

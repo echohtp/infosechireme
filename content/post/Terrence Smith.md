@@ -4,7 +4,8 @@ date: 2020-03-15
 hero: 
 excerpt: undefined
 tags: 
-
+draft: true
+maxWidthPX: 652
 ---
 
 ### Terrence Smith

@@ -4,7 +4,8 @@ date: 2020-03-15
 hero: https://dl.airtable.com/.attachmentThumbnails/5bb886ea03105eff4a3b739272dc6e5c/20e59e6a
 excerpt: Web Developer 
 tags: 
-
+draft: true
+maxWidthPX: 652
 ---
 
 ### Caleb Jasik

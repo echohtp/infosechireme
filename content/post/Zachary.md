@@ -4,7 +4,8 @@ date: 2020-03-15
 hero: https://dl.airtable.com/.attachmentThumbnails/07204d718304c4ace27cfa8d4bc53856/62d9a44d
 excerpt: Infosec, Analyst
 tags: 
-
+draft: true
+maxWidthPX: 652
 ---
 
 ### Zachary

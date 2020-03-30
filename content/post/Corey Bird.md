@@ -4,7 +4,8 @@ date: 2020-03-15
 hero: 
 excerpt: Security Analyst
 tags: 
-
+draft: true
+maxWidthPX: 652
 ---
 
 ### Corey Bird
