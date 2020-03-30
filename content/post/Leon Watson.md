@@ -4,7 +4,7 @@ date: 2020-03-15
 hero: https://dl.airtable.com/.attachmentThumbnails/4c1d725cd66d776f3e79cedbb96319c6/8a261b11
 excerpt: NOC/SOC Engineer
 tags: 
-draft: true
+draft: false
 maxWidthPX: 652
 ---
 

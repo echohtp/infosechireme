@@ -4,7 +4,7 @@ date: 2020-03-15
 hero: 
 excerpt: Software Developer
 tags: 
-draft: true
+draft: false
 maxWidthPX: 652
 ---
 

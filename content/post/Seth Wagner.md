@@ -4,7 +4,7 @@ date: 2020-03-15
 hero: https://dl.airtable.com/.attachmentThumbnails/786f4fa3bedc150f00442d15981e863e/d6b08f4e
 excerpt: Student Project Manager
 tags: 
-draft: true
+draft: false
 maxWidthPX: 652
 ---
 

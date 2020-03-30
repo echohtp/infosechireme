@@ -4,7 +4,7 @@ date: 2020-03-15
 hero: https://dl.airtable.com/.attachmentThumbnails/17dfe96bdeeda1610c25b5a4c2dbe5b6/fefec12f
 excerpt: Web Developer 
 tags: 
-draft: true
+draft: false
 maxWidthPX: 652
 ---
 

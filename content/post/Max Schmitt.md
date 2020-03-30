@@ -4,7 +4,7 @@ date: 2020-03-15
 hero: https://dl.airtable.com/.attachmentThumbnails/a8681a5da9567a44da06ce1bfc22a991/40f04958
 excerpt: Software Engineer
 tags: 
-draft: true
+draft: false
 maxWidthPX: 652
 ---
 

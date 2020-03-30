@@ -4,7 +4,7 @@ date: 2020-03-15
 hero: https://dl.airtable.com/.attachmentThumbnails/adb92a4f46e483382dee1d5c0e3a9a3f/d06a57bd
 excerpt: InfoSec, Analyst 
 tags: 
-draft: true
+draft: false
 maxWidthPX: 652
 ---
 

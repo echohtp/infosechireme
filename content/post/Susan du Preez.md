@@ -4,7 +4,7 @@ date: 2020-03-15
 hero: https://dl.airtable.com/.attachmentThumbnails/2017dec4171da555dc9b1f9307d90aba/71b3a893
 excerpt: Information Security Manager (EISM)
 tags: 
-draft: true
+draft: false
 maxWidthPX: 652
 ---
 
